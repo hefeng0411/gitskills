@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master text2
+=======
+1111111111
+the one µÄÎÄ¼þ
+>>>>>>> theone
